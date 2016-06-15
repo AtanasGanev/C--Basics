@@ -1,0 +1,6 @@
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\05.OperatorsExpressionsAndStatements\10.PointInsideACircleAndOtsideOfARectangle\bin\Debug\10.PointInsideACircleAndOtsideOfARectangle.exe.config
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\05.OperatorsExpressionsAndStatements\10.PointInsideACircleAndOtsideOfARectangle\bin\Debug\10.PointInsideACircleAndOtsideOfARectangle.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\05.OperatorsExpressionsAndStatements\10.PointInsideACircleAndOtsideOfARectangle\bin\Debug\10.PointInsideACircleAndOtsideOfARectangle.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\05.OperatorsExpressionsAndStatements\10.PointInsideACircleAndOtsideOfARectangle\obj\Debug\10.PointInsideACircleAndOtsideOfARectangle.csprojResolveAssemblyReference.cache
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\05.OperatorsExpressionsAndStatements\10.PointInsideACircleAndOtsideOfARectangle\obj\Debug\10.PointInsideACircleAndOtsideOfARectangle.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\05.OperatorsExpressionsAndStatements\10.PointInsideACircleAndOtsideOfARectangle\obj\Debug\10.PointInsideACircleAndOtsideOfARectangle.pdb

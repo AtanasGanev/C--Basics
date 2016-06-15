@@ -1,0 +1,6 @@
+c:\users\naster\documents\visual studio 2013\Projects\05.OperatorsExpressionsAndStatements\11.Bitwise-ExtractBitN3\bin\Debug\11.Bitwise-ExtractBitN3.exe.config
+c:\users\naster\documents\visual studio 2013\Projects\05.OperatorsExpressionsAndStatements\11.Bitwise-ExtractBitN3\bin\Debug\11.Bitwise-ExtractBitN3.exe
+c:\users\naster\documents\visual studio 2013\Projects\05.OperatorsExpressionsAndStatements\11.Bitwise-ExtractBitN3\bin\Debug\11.Bitwise-ExtractBitN3.pdb
+c:\users\naster\documents\visual studio 2013\Projects\05.OperatorsExpressionsAndStatements\11.Bitwise-ExtractBitN3\obj\Debug\11.Bitwise-ExtractBitN3.csprojResolveAssemblyReference.cache
+c:\users\naster\documents\visual studio 2013\Projects\05.OperatorsExpressionsAndStatements\11.Bitwise-ExtractBitN3\obj\Debug\11.Bitwise-ExtractBitN3.exe
+c:\users\naster\documents\visual studio 2013\Projects\05.OperatorsExpressionsAndStatements\11.Bitwise-ExtractBitN3\obj\Debug\11.Bitwise-ExtractBitN3.pdb

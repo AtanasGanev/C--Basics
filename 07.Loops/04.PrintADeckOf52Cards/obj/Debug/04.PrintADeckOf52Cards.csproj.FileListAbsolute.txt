@@ -1,0 +1,6 @@
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe.config
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.csprojResolveAssemblyReference.cache
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.pdb
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.exe
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.pdb

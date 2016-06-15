@@ -1,0 +1,5 @@
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\07.Loops\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.exe.config
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\07.Loops\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\07.Loops\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\07.Loops\14.DecimalToBinaryNumber\obj\Debug\14.DecimalToBinaryNumber.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\07.Loops\14.DecimalToBinaryNumber\obj\Debug\14.DecimalToBinaryNumber.pdb

@@ -1,0 +1,3 @@
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintASequence\bin\Debug\PrintASequence.exe.config
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintASequence\obj\Debug\PrintASequence.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintASequence\obj\Debug\PrintASequence.pdb

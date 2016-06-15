@@ -1,0 +1,5 @@
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\05.Calculate1+1! …\bin\Debug\05.Calculate1+1! ….exe.config
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\05.Calculate1+1! …\bin\Debug\05.Calculate1+1! ….exe
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\05.Calculate1+1! …\bin\Debug\05.Calculate1+1! ….pdb
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\05.Calculate1+1! …\obj\Debug\05.Calculate1+1! ….exe
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\05.Calculate1+1! …\obj\Debug\05.Calculate1+1! ….pdb

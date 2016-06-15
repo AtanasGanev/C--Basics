@@ -1,0 +1,6 @@
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\07.Calculate N!\bin\Debug\07.Calculate N!.exe.config
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\07.Calculate N!\bin\Debug\07.Calculate N!.exe
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\07.Calculate N!\bin\Debug\07.Calculate N!.pdb
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\07.Calculate N!\obj\Debug\07.Calculate N!.csprojResolveAssemblyReference.cache
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\07.Calculate N!\obj\Debug\07.Calculate N!.exe
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\07.Calculate N!\obj\Debug\07.Calculate N!.pdb

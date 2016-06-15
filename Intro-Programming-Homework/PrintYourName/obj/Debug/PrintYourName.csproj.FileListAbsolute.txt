@@ -1,0 +1,5 @@
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintYourName\bin\Debug\PrintYourName.exe.config
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintYourName\bin\Debug\PrintYourName.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintYourName\bin\Debug\PrintYourName.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintYourName\obj\Debug\PrintYourName.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintYourName\obj\Debug\PrintYourName.pdb

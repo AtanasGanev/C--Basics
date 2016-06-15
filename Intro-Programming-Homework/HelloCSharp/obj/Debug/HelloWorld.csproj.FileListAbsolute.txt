@@ -1,0 +1,6 @@
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache

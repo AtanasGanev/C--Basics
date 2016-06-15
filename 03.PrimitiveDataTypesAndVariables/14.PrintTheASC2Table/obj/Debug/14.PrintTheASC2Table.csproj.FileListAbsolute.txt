@@ -1,0 +1,5 @@
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\02.PrimitiveDataTypesAndVariables\14.PrintTheASC2Table\bin\Debug\14.PrintTheASC2Table.exe.config
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\02.PrimitiveDataTypesAndVariables\14.PrintTheASC2Table\bin\Debug\14.PrintTheASC2Table.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\02.PrimitiveDataTypesAndVariables\14.PrintTheASC2Table\bin\Debug\14.PrintTheASC2Table.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\02.PrimitiveDataTypesAndVariables\14.PrintTheASC2Table\obj\Debug\14.PrintTheASC2Table.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\02.PrimitiveDataTypesAndVariables\14.PrintTheASC2Table\obj\Debug\14.PrintTheASC2Table.pdb

@@ -1,0 +1,9 @@
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\13.CurrencyCheck\bin\Debug\13.CurrencyCheck.exe.config
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\13.CurrencyCheck\bin\Debug\13.CurrencyCheck.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\13.CurrencyCheck\bin\Debug\13.CurrencyCheck.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\13.CurrencyCheck\obj\Debug\13.CurrencyCheck.csprojResolveAssemblyReference.cache
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\13.CurrencyCheck\obj\Debug\13.CurrencyCheck.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\13.CurrencyCheck\obj\Debug\13.CurrencyCheck.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\04.ConsoleInputOutput\13.CurrencyCheck\bin\Debug\13.CurrencyCheck.exe.config
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\04.ConsoleInputOutput\13.CurrencyCheck\obj\Debug\13.CurrencyCheck.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\04.ConsoleInputOutput\13.CurrencyCheck\obj\Debug\13.CurrencyCheck.pdb

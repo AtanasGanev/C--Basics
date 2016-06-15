@@ -1,0 +1,5 @@
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\02.PrimitiveDataTypesAndVariables\07.QuotesAndStrings\bin\Debug\07.QuotesAndStrings.exe.config
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\02.PrimitiveDataTypesAndVariables\07.QuotesAndStrings\bin\Debug\07.QuotesAndStrings.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\02.PrimitiveDataTypesAndVariables\07.QuotesAndStrings\bin\Debug\07.QuotesAndStrings.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\02.PrimitiveDataTypesAndVariables\07.QuotesAndStrings\obj\Debug\07.QuotesAndStrings.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\02.PrimitiveDataTypesAndVariables\07.QuotesAndStrings\obj\Debug\07.QuotesAndStrings.pdb

@@ -1,0 +1,3 @@
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb

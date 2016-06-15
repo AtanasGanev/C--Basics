@@ -1,0 +1,6 @@
+c:\users\naster\documents\visual studio 2013\Projects\05.OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe.config
+c:\users\naster\documents\visual studio 2013\Projects\05.OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe
+c:\users\naster\documents\visual studio 2013\Projects\05.OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.pdb
+c:\users\naster\documents\visual studio 2013\Projects\05.OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.exe
+c:\users\naster\documents\visual studio 2013\Projects\05.OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\05.OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.csprojResolveAssemblyReference.cache

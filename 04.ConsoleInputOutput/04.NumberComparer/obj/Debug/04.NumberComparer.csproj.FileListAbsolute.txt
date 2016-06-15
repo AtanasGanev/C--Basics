@@ -1,0 +1,8 @@
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\04.NumberComparer\bin\Debug\04.NumberComparer.exe.config
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\04.NumberComparer\bin\Debug\04.NumberComparer.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\04.NumberComparer\bin\Debug\04.NumberComparer.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\04.ConsoleInputOutput\04.NumberComparer\bin\Debug\04.NumberComparer.exe.config
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\04.ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\04.ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.pdb

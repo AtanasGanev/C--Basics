@@ -1,0 +1,9 @@
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe.config
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\04.ConsoleInputOutput\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe.config
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\04.ConsoleInputOutput\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\04.ConsoleInputOutput\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.pdb

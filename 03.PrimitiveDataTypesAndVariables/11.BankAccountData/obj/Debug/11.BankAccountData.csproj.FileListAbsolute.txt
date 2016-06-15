@@ -1,0 +1,5 @@
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\02.PrimitiveDataTypesAndVariables\11.BankAccountData\bin\Debug\11.BankAccountData.exe.config
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\02.PrimitiveDataTypesAndVariables\11.BankAccountData\bin\Debug\11.BankAccountData.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\02.PrimitiveDataTypesAndVariables\11.BankAccountData\bin\Debug\11.BankAccountData.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\02.PrimitiveDataTypesAndVariables\11.BankAccountData\obj\Debug\11.BankAccountData.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\02.PrimitiveDataTypesAndVariables\11.BankAccountData\obj\Debug\11.BankAccountData.pdb

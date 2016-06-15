@@ -1,0 +1,3 @@
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb

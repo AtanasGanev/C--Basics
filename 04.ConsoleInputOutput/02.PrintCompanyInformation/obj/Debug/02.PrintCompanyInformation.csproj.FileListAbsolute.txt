@@ -1,0 +1,12 @@
+c:\users\naster\documents\visual studio 2013\Projects\03.ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+c:\users\naster\documents\visual studio 2013\Projects\03.ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+c:\users\naster\documents\visual studio 2013\Projects\03.ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+c:\users\naster\documents\visual studio 2013\Projects\03.ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache
+c:\users\naster\documents\visual studio 2013\Projects\03.ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+c:\users\naster\documents\visual studio 2013\Projects\03.ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\04.ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\04.ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\04.ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\04.ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\04.ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\04.ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache

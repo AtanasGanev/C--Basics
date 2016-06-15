@@ -1,0 +1,6 @@
+c:\users\naster\documents\visual studio 2013\Projects\05.OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe.config
+c:\users\naster\documents\visual studio 2013\Projects\05.OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe
+c:\users\naster\documents\visual studio 2013\Projects\05.OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.pdb
+c:\users\naster\documents\visual studio 2013\Projects\05.OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.csprojResolveAssemblyReference.cache
+c:\users\naster\documents\visual studio 2013\Projects\05.OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.exe
+c:\users\naster\documents\visual studio 2013\Projects\05.OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.pdb

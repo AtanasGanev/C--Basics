@@ -1,0 +1,5 @@
+c:\users\naster\documents\visual studio 2013\Projects\06.ConditionalStatements\03.CheckForAPlayCard\bin\Debug\03.CheckForAPlayCard.exe.config
+c:\users\naster\documents\visual studio 2013\Projects\06.ConditionalStatements\03.CheckForAPlayCard\bin\Debug\03.CheckForAPlayCard.exe
+c:\users\naster\documents\visual studio 2013\Projects\06.ConditionalStatements\03.CheckForAPlayCard\bin\Debug\03.CheckForAPlayCard.pdb
+c:\users\naster\documents\visual studio 2013\Projects\06.ConditionalStatements\03.CheckForAPlayCard\obj\Debug\03.CheckForAPlayCard.exe
+c:\users\naster\documents\visual studio 2013\Projects\06.ConditionalStatements\03.CheckForAPlayCard\obj\Debug\03.CheckForAPlayCard.pdb

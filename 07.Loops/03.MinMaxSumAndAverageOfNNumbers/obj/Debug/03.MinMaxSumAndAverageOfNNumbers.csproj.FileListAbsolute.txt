@@ -1,0 +1,5 @@
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.exe.config
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+c:\users\naster\documents\visual studio 2013\Projects\07.Loops\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb

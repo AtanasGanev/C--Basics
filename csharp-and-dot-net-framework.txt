@@ -1,0 +1,4 @@
+Diffrences between C# and .NET Framework:
+
+
+There really isn't any difference.C# is a .NET based/developed language - its a language used to develop on the .NET platform and is available through .NET framework.Micrsoft Visual C#.Net is one compiler for that language, one written by Microsoft for use creating .Net applications (Console, WinForm & WebForm)

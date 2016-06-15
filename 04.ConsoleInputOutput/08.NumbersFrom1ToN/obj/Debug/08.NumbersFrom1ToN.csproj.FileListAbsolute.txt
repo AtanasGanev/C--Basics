@@ -1,0 +1,8 @@
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe.config
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\03.ConsoleInputOutput\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.pdb
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\04.ConsoleInputOutput\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe.config
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\04.ConsoleInputOutput\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.exe
+C:\Users\Naster\Documents\Visual Studio 2013\Projects\04.ConsoleInputOutput\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.pdb
